@@ -38,9 +38,6 @@ OF_DYNAMIC_FULL_SIZE := 9126805504
 # number of list options before scrollbar creation
 OF_OPTIONS_LIST_NUM := 11
 
-# A/B with recovery partition
-OF_AB_DEVICE_WITH_RECOVERY_PARTITION := 1
-
 # ----- data format stuff -----
 # ensure that /sdcard is bind-unmounted before f2fs data repair or format
 OF_UNBIND_SDCARD_F2FS := 1
