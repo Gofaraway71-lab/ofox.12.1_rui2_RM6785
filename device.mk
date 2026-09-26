@@ -48,5 +48,4 @@ PRODUCT_PACKAGES += \
     android.hardware.fastboot@1.1-impl-mock \
     android.hardware.fastboot@1.1-impl-mock.recovery
 
-# Device-specific OrangeFox configuration
-$(call inherit-product, $(LOCAL_PATH)/fox_RM6785.mk)
+
